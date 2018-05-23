@@ -551,3 +551,6 @@ a {
 
 .footer-heading {
   margin-bottom: 0; }
+
+ul.li-mb-0 li, ol.li-mb-0 li {
+  margin-bottom: 0 !important; }

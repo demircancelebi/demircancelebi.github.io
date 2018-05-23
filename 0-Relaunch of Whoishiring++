@@ -1,0 +1,5 @@
+One of the things I have wanted for a long time was fixing whoishiring++. Since I have not automated fetching the monthly pages on HN every month in the first place, and there was a bug in the software, it was not running for almost a year now, and I've got emails from a few people asking me whether it'll be online again.
+
+After spending some time on HN's monthly "Who is hiring" page this month, I've felt that in addition to being able to filtering the jobs, it would be nice if people would be able to create quicklists. So I've decided to implement a quicklist feature.
+
+I do not want to collect any data on people using this feature, so I've decided that it should work with Local Storage, meaning that it would work in the browser and would not send any data back to me. I've fixed the bugs in the software and am now relaunching it with this post.
