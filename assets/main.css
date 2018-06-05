@@ -518,14 +518,14 @@ body {
   max-width: 550px; }
 
 a {
-  color: #00a2c7; }
+  color: #428bca; }
   a:visited:hover, a:hover, a:focus {
-    color: #0085a3; }
+    color: #3379b5; }
   a:visited {
-    color: #00a2c7; }
+    color: #428bca; }
 
 .site-header {
-  border-top: 6px solid #00a2c7 !important;
+  border-top: 6px solid #428bca !important;
   background: #fff; }
 
 .post-title {
@@ -554,3 +554,11 @@ a {
 
 ul.li-mb-0 li, ol.li-mb-0 li {
   margin-bottom: 0 !important; }
+
+#pp {
+  padding: 0;
+  position: absolute;
+  width: 100px; }
+  #pp img {
+    margin: 0 0 0 -120px;
+    border-radius: 100px; }
