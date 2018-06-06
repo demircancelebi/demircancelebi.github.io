@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/demircancelebi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://celebi.me
+  * I am demircancelebi (https://keybase.io/demircancelebi) on keybase.
+  * I have a public key ASAM2f5feSRL1jvGDD39jpnLezV7aVGzm3RlIzR26VChXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200cd9fe5f79244bd63bc60c3dfd8e99cb7b357b6951b39b7465233476e950a15d0a",
+      "host": "keybase.io",
+      "kid": "01200cd9fe5f79244bd63bc60c3dfd8e99cb7b357b6951b39b7465233476e950a15d0a",
+      "uid": "5f74c731d3abe72df1e06e28c6deed19",
+      "username": "demircancelebi"
+    },
+    "merkle_root": {
+      "ctime": 1528286885,
+      "hash": "8050b32431aee04134ddad25094d4556a0403ad8d68579ce24b136b643fd105dac357484b8f1aa478d5138104e78324db3f0e50c2222b0cacebb46fa0bf7c5d8",
+      "hash_meta": "e54ee817ef164af1106836c7973b3250c4f956105e708f0049ae79d3c5beed75",
+      "seqno": 3033353
+    },
+    "service": {
+      "entropy": "c4zyiglEQHg1eOz89VvRAYwp",
+      "hostname": "celebi.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528286901,
+  "expire_in": 504576000,
+  "prev": "fd9cd2b44ced39d72b8bfabe4ee6c760a1830d4fc79a834189a227db8dab4dd9",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDNn+X3kkS9Y7xgw9/Y6Zy3s1e2lRs5t0ZSM0dulQoV0Kp3BheWxvYWTESpcCB8Qg/ZzStEztOdcri/q+TubHYKGDDU/HmoNBiaIn242rTdnEIH4a4j4YDXtkRu7hF4t5mjiWD/kirSUjgjWLLPTCps0CAgHCo3NpZ8RAokPmQRFlUfnV7ZQmJblZmWWiQGw1iLYurgIt2Q7RbEFRyDvcb1kZP3udVEQ7aNZl9YXtXp4WMRqTbTPJREyzAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGV53UnYTb5qe5TOlhtCxi5EAnUVEXNXBTlFzVu9uMXlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/demircancelebi
+
+==================================================================
